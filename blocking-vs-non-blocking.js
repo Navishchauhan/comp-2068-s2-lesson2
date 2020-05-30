@@ -1,1 +1,5 @@
-// JavaScript Document
+
+//Blocking (sync)
+
+
+//Non-Blocking (async)
