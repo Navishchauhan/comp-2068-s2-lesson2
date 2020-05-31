@@ -8,7 +8,7 @@ app.get('/', (request, response) => {
 		response.send(`
 
 		<http>
-		<head><title> Oh Snap </head></title>
+		<head><title> Oh Snap </title></head>
 
 			<body>
 				<h1>OH SNAP!!!<h1>
