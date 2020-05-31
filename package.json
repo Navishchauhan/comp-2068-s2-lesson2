@@ -1,0 +1,24 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Doing Things",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"Start": "nodemon example-node.js"   
+  },
+	
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navishchauhan/comp-2068-s2-lesson2.git"
+  },
+  "author": "Navish Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navishchauhan/comp-2068-s2-lesson2/issues"
+  },
+  "homepage": "https://github.com/Navishchauhan/comp-2068-s2-lesson2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
